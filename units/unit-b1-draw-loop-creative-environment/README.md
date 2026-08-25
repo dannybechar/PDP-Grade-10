@@ -10,6 +10,7 @@ Unit B1 introduces the creative-coding environment and the programming cycle stu
 - [`01-canvas-coordinates`](01-canvas-coordinates): create a canvas, read screen coordinates, predict positions, and place circles precisely.
 - [`02-setup-draw`](02-setup-draw): compare code that runs once with code that runs every frame by building a static sketch, a mouse trail, and a clean mouse follower.
 - [`03-shapes-geometry`](03-shapes-geometry): translate geometric specifications into `rect()`, `ellipse()`, and `line()` calls, predict their placement, and verify the result in BlueJ.
+- [`04-color-stroke-fill`](04-color-stroke-fill): control fill, outline colour, and stroke weight; trace persistent style state; and use `noFill()` and `noStroke()` deliberately.
 
 ## Definition of ready
 

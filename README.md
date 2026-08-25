@@ -28,6 +28,11 @@ The third programming lesson is available:
 - [`B1.2.1 — Shapes & Geometry`](units/unit-b1-draw-loop-creative-environment/03-shapes-geometry)
 - Six runnable BlueJ projects covering the lesson shell, shape comparisons, checkpoints, prediction task, and final construction.
 
+The fourth programming lesson is available:
+
+- [`B1.2.2 — Color, Stroke & Fill`](units/unit-b1-draw-loop-creative-environment/04-color-stroke-fill)
+- Eight runnable BlueJ projects covering style controls, persistent drawing state, grayscale and RGB, omission commands, prediction, and final construction.
+
 Open [`units/unit-b1-draw-loop-creative-environment/00-onboarding`](units/unit-b1-draw-loop-creative-environment/00-onboarding) to begin.
 
 ## Verified environment
