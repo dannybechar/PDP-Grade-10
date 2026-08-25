@@ -43,6 +43,11 @@ The sixth programming lesson is available:
 - [`B1.3.2 — Velocity-Style Movement`](units/unit-b1-draw-loop-creative-environment/06-velocity-style-movement)
 - Six runnable BlueJ projects covering the verified shell, cumulative trails, clean frame clearing, signed horizontal and vertical movement, and the final construction.
 
+The seventh programming lesson is available:
+
+- [`B1.3.3 — Combining & Practicing`](units/unit-b1-draw-loop-creative-environment/07-combining-practicing)
+- Six runnable BlueJ projects covering the verified shell, movement retrieval, move-and-grow, diagonal motion, a prediction check, and the final combined construction.
+
 Open [`units/unit-b1-draw-loop-creative-environment/00-onboarding`](units/unit-b1-draw-loop-creative-environment/00-onboarding) to begin.
 
 ## Verified environment

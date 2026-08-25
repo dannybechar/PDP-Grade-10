@@ -13,6 +13,7 @@ Unit B1 introduces the creative-coding environment and the programming cycle stu
 - [`04-color-stroke-fill`](04-color-stroke-fill): control fill, outline colour, and stroke weight; trace persistent style state; and use `noFill()` and `noStroke()` deliberately.
 - [`05-frame-by-frame-change`](05-frame-by-frame-change): update a value inside `draw()`, contrast local and class-level variables, trace values across frames, and build a growing circle.
 - [`06-velocity-style-movement`](06-velocity-style-movement): update position with signed per-frame velocity, predict direction and coordinates, compare trails with clean frame clearing, and build steady movement.
+- [`07-combining-practicing`](07-combining-practicing): combine multiple persistent properties, trace simultaneous changes, compare move-and-grow with diagonal movement, and build one sketch that changes in two ways.
 
 ## Definition of ready
 
