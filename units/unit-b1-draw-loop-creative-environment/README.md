@@ -8,6 +8,7 @@ Unit B1 introduces the creative-coding environment and the programming cycle stu
 
 - [`00-onboarding`](00-onboarding): install BlueJ and Processing, connect the Processing core library, and run the first verified sketch.
 - [`01-canvas-coordinates`](01-canvas-coordinates): create a canvas, read screen coordinates, predict positions, and place circles precisely.
+- [`02-setup-draw`](02-setup-draw): compare code that runs once with code that runs every frame by building a static sketch, a mouse trail, and a clean mouse follower.
 
 ## Definition of ready
 

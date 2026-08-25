@@ -18,6 +18,11 @@ The first programming lesson is also available:
 - [`B1.1.1 — Canvas & Coordinate System`](units/unit-b1-draw-loop-creative-environment/01-canvas-coordinates)
 - Four runnable BlueJ projects covering every code example in the lesson.
 
+The second programming lesson is available:
+
+- [`B1.1.2 — Setup vs. Continuous Draw`](units/unit-b1-draw-loop-creative-environment/02-setup-draw)
+- Five runnable BlueJ projects covering the lesson shell, three checkpoints, and the optional motion demonstration.
+
 Open [`units/unit-b1-draw-loop-creative-environment/00-onboarding`](units/unit-b1-draw-loop-creative-environment/00-onboarding) to begin.
 
 ## Verified environment
