@@ -13,6 +13,11 @@ The onboarding package is complete and contains:
 - A teacher runbook with timings, checkpoints, and recovery guidance.
 - Starter and complete versions of the first verified BlueJ project.
 
+The first programming lesson is also available:
+
+- [`B1.1.1 — Canvas & Coordinate System`](units/unit-b1-draw-loop-creative-environment/01-canvas-coordinates)
+- Four runnable BlueJ projects covering every code example in the lesson.
+
 Open [`units/unit-b1-draw-loop-creative-environment/00-onboarding`](units/unit-b1-draw-loop-creative-environment/00-onboarding) to begin.
 
 ## Verified environment
@@ -44,4 +49,3 @@ The macOS route follows the official BlueJ and Processing installation guidance,
 4. Compile and run it.
 5. Compare the result with the stated success criteria.
 6. Commit only after the example has been verified.
-

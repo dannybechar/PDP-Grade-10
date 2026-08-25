@@ -7,8 +7,7 @@ Unit B1 introduces the creative-coding environment and the programming cycle stu
 ## Contents
 
 - [`00-onboarding`](00-onboarding): install BlueJ and Processing, connect the Processing core library, and run the first verified sketch.
-
-Lesson folders and their verified programs will be added after the onboarding package.
+- [`01-canvas-coordinates`](01-canvas-coordinates): create a canvas, read screen coordinates, predict positions, and place circles precisely.
 
 ## Definition of ready
 
@@ -21,4 +20,3 @@ A student is ready for the first programming lesson when all of the following ar
 - The sketch opens in a 400 × 400 window.
 - The orange circle follows the mouse.
 - Changing its diameter from 60 to 120 changes the running program.
-
