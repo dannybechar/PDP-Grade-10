@@ -48,6 +48,11 @@ The seventh programming lesson is available:
 - [`B1.3.3 — Combining & Practicing`](units/unit-b1-draw-loop-creative-environment/07-combining-practicing)
 - Six runnable BlueJ projects covering the verified shell, movement retrieval, move-and-grow, diagonal motion, a prediction check, and the final combined construction.
 
+The eighth programming lesson is available:
+
+- [`B1.4 — Read, Trace & Deliberately Modify`](units/unit-b1-draw-loop-creative-environment/08-read-trace-modify)
+- Five runnable BlueJ projects covering the verified shell, two unfamiliar sketches, a local-style modification, and a signed-velocity modification.
+
 Open [`units/unit-b1-draw-loop-creative-environment/00-onboarding`](units/unit-b1-draw-loop-creative-environment/00-onboarding) to begin.
 
 ## Verified environment
