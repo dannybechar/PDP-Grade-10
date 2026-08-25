@@ -38,6 +38,11 @@ The fifth programming lesson is available:
 - [`B1.3.1 — Frame-by-Frame Change`](units/unit-b1-draw-loop-creative-environment/05-frame-by-frame-change)
 - Six runnable BlueJ projects covering the verified shell, repeated static drawing, local reset, persistent state, slow frame tracing, and the final growing-circle construction.
 
+The sixth programming lesson is available:
+
+- [`B1.3.2 — Velocity-Style Movement`](units/unit-b1-draw-loop-creative-environment/06-velocity-style-movement)
+- Six runnable BlueJ projects covering the verified shell, cumulative trails, clean frame clearing, signed horizontal and vertical movement, and the final construction.
+
 Open [`units/unit-b1-draw-loop-creative-environment/00-onboarding`](units/unit-b1-draw-loop-creative-environment/00-onboarding) to begin.
 
 ## Verified environment
