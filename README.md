@@ -23,6 +23,11 @@ The second programming lesson is available:
 - [`B1.1.2 — Setup vs. Continuous Draw`](units/unit-b1-draw-loop-creative-environment/02-setup-draw)
 - Five runnable BlueJ projects covering the lesson shell, three checkpoints, and the optional motion demonstration.
 
+The third programming lesson is available:
+
+- [`B1.2.1 — Shapes & Geometry`](units/unit-b1-draw-loop-creative-environment/03-shapes-geometry)
+- Six runnable BlueJ projects covering the lesson shell, shape comparisons, checkpoints, prediction task, and final construction.
+
 Open [`units/unit-b1-draw-loop-creative-environment/00-onboarding`](units/unit-b1-draw-loop-creative-environment/00-onboarding) to begin.
 
 ## Verified environment
