@@ -1,5 +1,10 @@
 *.class
 *.ctxt
 bluej-debuglog.txt
+*.log
 .DS_Store
 Thumbs.db
+.idea/
+.vscode/
+out/
+

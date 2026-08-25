@@ -1,7 +1,7 @@
-﻿PROJECT TITLE: FirstSketch
+PROJECT TITLE: FirstSketch Complete
 
 PURPOSE:
-Verify that BlueJ can compile and run a Processing program.
+Show the verified result after the first source-code change.
 
 REQUIREMENTS:
 BlueJ 6.0.0 with Processing 4.5.6 core library loaded.
@@ -14,7 +14,8 @@ HOW TO RUN:
 
 EXPECTED RESULT:
 A 400 x 400 dark window opens.
-An orange circle follows the mouse pointer.
+An orange 120-pixel circle follows the mouse pointer.
 
 VERIFICATION:
-The circle diameter is 120 pixels, confirming that the first code change worked.
+This is the completed result after changing the starter value from 60 to 120.
+

@@ -17,7 +17,7 @@ public class FirstSketch extends PApplet
         background(30);
         noStroke();
         fill(255, 180, 0);
-        circle(mouseX, mouseY, 120);
+        circle(mouseX, mouseY, 60);
     }
 
     public static void main(String[] args)
@@ -25,3 +25,4 @@ public class FirstSketch extends PApplet
         PApplet.main("FirstSketch");
     }
 }
+
