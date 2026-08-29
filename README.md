@@ -55,6 +55,17 @@ The eighth programming lesson is available:
 
 Open [`units/unit-b1-draw-loop-creative-environment/00-onboarding`](units/unit-b1-draw-loop-creative-environment/00-onboarding) to begin.
 
+### Unit B2 — Parameterized & Procedural Creation
+
+The complete Unit B2 lesson sequence is available:
+
+- [`B2.1.1 — Reusable Visual Components`](units/unit-b2-parameterized-procedural-creation/01-reusable-visual-components)
+- Five runnable BlueJ projects covering the inline baseline, packaged flower, overlapping duplicate calls, balloon starter, and completed refactor.
+- Nine further lessons develop position and size parameters, loops, grids, procedural rules, controlled randomness, regeneration, and conditions.
+- Each lesson includes a revised presentation with teacher notes and three synchronized runnable BlueJ projects.
+
+See the complete lesson sequence in [`course-map.md`](course-map.md).
+
 ## Verified environment
 
 | Item | Verified value |
