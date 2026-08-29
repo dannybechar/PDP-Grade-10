@@ -36,3 +36,12 @@
 8. [B3.3.3 — Complete Flow](units/unit-b3-interactivity-state/08-complete-flow)
 9. [B3.4.1 — Key-Controlled Parameters](units/unit-b3-interactivity-state/09-key-controlled-parameters)
 10. [B3.4.2 — Mouse Regions & Buttons](units/unit-b3-interactivity-state/10-mouse-regions-button)
+
+## Unit B4 — Collections & Interaction
+
+1. [B4.1.1 — Storing Many Elements in an Array](units/unit-b4-collections-interaction/01-storing-many-elements)
+2. [B4.1.2 — Parallel Arrays](units/unit-b4-collections-interaction/02-parallel-arrays)
+3. [B4.1.3 — Checking Collection Behaviour](units/unit-b4-collections-interaction/03-checking-collection-behaviour)
+4. [B4.2.1 — Per-Frame Movement](units/unit-b4-collections-interaction/04-per-frame-movement)
+5. [B4.2.2 — Lifespan and Removal](units/unit-b4-collections-interaction/05-lifespan-removal)
+6. [B4.2.3 — Addition and Synthesis](units/unit-b4-collections-interaction/06-addition-synthesis)

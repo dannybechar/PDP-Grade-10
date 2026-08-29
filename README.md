@@ -75,6 +75,15 @@ The complete Unit B3 lesson sequence is available:
 
 Start with [`B3.1.1 — Mouse Events`](units/unit-b3-interactivity-state/01-mouse-events), or see the complete sequence in [`course-map.md`](course-map.md).
 
+### Unit B4 — Collections & Interaction
+
+The complete Unit B4 lesson sequence is available:
+
+- Six revised presentations develop arrays, parallel properties, collection checks, per-frame mutation, active-count removal, and capacity-guarded addition.
+- Each lesson includes detailed teacher notes and three synchronized runnable BlueJ projects.
+
+Start with [`B4.1.1 — Storing Many Elements in an Array`](units/unit-b4-collections-interaction/01-storing-many-elements), or see the complete sequence in [`course-map.md`](course-map.md).
+
 ## Verified environment
 
 | Item | Verified value |
