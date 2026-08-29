@@ -12,3 +12,8 @@ Unit B4 develops fixed-size arrays, parallel properties, collection checks, per-
 - [`06-addition-synthesis`](06-addition-synthesis): Addition and Synthesis — capacity-guarded addition combined with movement and removal.
 
 Each lesson includes a revised seven-slide presentation with a 45-minute teacher script and three synchronized runnable BlueJ projects.
+
+## Strategy documents
+
+- [`B4.1 — Store and Iterate Over Visual Collections`](strategy/B4.1.0_Visual_Element_Collections_Strategy.md)
+- [`B4.2 — Update Collections Over Time`](strategy/B4.2.0_Updating_Collections_Strategy.md)
