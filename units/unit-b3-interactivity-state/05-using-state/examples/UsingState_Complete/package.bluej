@@ -1,0 +1,12 @@
+#BlueJ package file
+package.editor.height=700
+package.editor.width=900
+package.numDependencies=0
+package.numTargets=1
+package.target1.height=50
+package.target1.name=InteractionSketch
+package.target1.showInterface=false
+package.target1.type=ClassTarget
+package.target1.width=140
+package.target1.x=40
+package.target1.y=40

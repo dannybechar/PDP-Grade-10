@@ -23,3 +23,16 @@
 8. [B2.3.2 — Regenerate & Compare](units/unit-b2-parameterized-procedural-creation/08-regenerate-compare)
 9. [B2.4.1 — Conditions & Appearance](units/unit-b2-parameterized-procedural-creation/09-conditions-appearance)
 10. [B2.4.2 — Combining Conditions](units/unit-b2-parameterized-procedural-creation/10-combining-conditions)
+
+## Unit B3 — Interactivity & State
+
+1. [B3.1.1 — Mouse Events](units/unit-b3-interactivity-state/01-mouse-events)
+2. [B3.1.2 — Keyboard Events](units/unit-b3-interactivity-state/02-keyboard-events)
+3. [B3.1.3 — Combining Events](units/unit-b3-interactivity-state/03-combining-events)
+4. [B3.2.1 — What Is State?](units/unit-b3-interactivity-state/04-what-is-state)
+5. [B3.2.2 — Using State](units/unit-b3-interactivity-state/05-using-state)
+6. [B3.3.1 — Naming Scenes](units/unit-b3-interactivity-state/06-naming-scenes)
+7. [B3.3.2 — Transitioning Scenes](units/unit-b3-interactivity-state/07-transitioning-scenes)
+8. [B3.3.3 — Complete Flow](units/unit-b3-interactivity-state/08-complete-flow)
+9. [B3.4.1 — Key-Controlled Parameters](units/unit-b3-interactivity-state/09-key-controlled-parameters)
+10. [B3.4.2 — Mouse Regions & Buttons](units/unit-b3-interactivity-state/10-mouse-regions-button)

@@ -66,6 +66,15 @@ The complete Unit B2 lesson sequence is available:
 
 See the complete lesson sequence in [`course-map.md`](course-map.md).
 
+### Unit B3 — Interactivity & State
+
+The complete Unit B3 lesson sequence is available:
+
+- Ten revised presentations develop mouse and keyboard events, persistent state, named scenes, guarded scene transitions, bounded key controls, and mouse-region buttons.
+- Each lesson includes detailed teacher notes and three synchronized runnable BlueJ projects.
+
+Start with [`B3.1.1 — Mouse Events`](units/unit-b3-interactivity-state/01-mouse-events), or see the complete sequence in [`course-map.md`](course-map.md).
+
 ## Verified environment
 
 | Item | Verified value |
