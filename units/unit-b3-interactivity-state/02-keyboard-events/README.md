@@ -1,6 +1,8 @@
 # B3.1.2 — Keyboard Events
 
-This 45-minute lesson develops character keys, coded keys, and keyboard callbacks.
+This 45-minute lesson develops printable character keys, keyboard held state, callbacks, and the
+operating-system key-repeat caveat. Coded-key handling is an optional extension rather than core
+completion content.
 
 ## Materials
 

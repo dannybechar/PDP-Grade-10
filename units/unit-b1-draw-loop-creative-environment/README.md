@@ -16,6 +16,14 @@ Unit B1 introduces the creative-coding environment and the programming cycle stu
 - [`07-combining-practicing`](07-combining-practicing): combine multiple persistent properties, trace simultaneous changes, compare move-and-grow with diagonal movement, and build one sketch that changes in two ways.
 - [`08-read-trace-modify`](08-read-trace-modify): read unfamiliar program structure, classify fields and local variables, trace updates in execution order, predict visible behaviour, and verify deliberate one-value modifications.
 
+## Strategy documents
+
+- [`B1 — Creative Environment and Unit Orientation`](strategy/B_Creative_Environment_Strategy.md)
+- [`B1.1 — Canvas, Coordinates, and the Draw Loop`](strategy/B1.1.0_Canvas_Coordinates_Strategy.md)
+- [`B1.2 — Drawing Primitives and Visual Parameters`](strategy/B1.2.0_Drawing_Primitives_Strategy.md)
+- [`B1.3 — Frame-Based Motion`](strategy/B1.3.0_Frame_Based_Motion_Strategy.md)
+- [`B1.4 — Read, Trace, and Deliberately Modify`](strategy/B1.4_Read_Trace_Modify_Strategy.md)
+
 ## Definition of ready
 
 A student is ready for the first programming lesson when all of the following are true:

@@ -2,7 +2,10 @@
 
 This repository is the source of truth for working examples and teaching resources for the Grade 10 PDP course.
 
-## Current unit
+## Available units
+
+Units B1–B4 are implemented. Each unit README lists its lesson sequence and the final strategy
+documents that define scope, progression, technical decisions, and verification status.
 
 ### Unit B1 — The Draw Loop & Creative Environment
 

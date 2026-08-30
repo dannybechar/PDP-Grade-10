@@ -14,3 +14,14 @@ Unit B2 develops reusable visual procedures from the drawing, state, tracing, an
 - [`08-regenerate-compare`](08-regenerate-compare): rerun the same algorithm and distinguish fixed structure from regenerated values.
 - [`09-conditions-appearance`](09-conditions-appearance): use a condition to vary generated appearance from position or loop state.
 - [`10-combining-conditions`](10-combining-conditions): combine functions, loops, controlled randomness, and conditions.
+
+Each lesson includes a revised presentation with teacher notes and synchronized runnable BlueJ
+projects.
+
+## Strategy documents
+
+- [`B2 — Parameterized and Procedural Creation`](strategy/B2_Procedural_Creation_Strategy.md)
+- [`B2.1 — Reusable Visual Functions`](strategy/B2.1.0_Reusable_Visual_Functions_Strategy.md)
+- [`B2.2 — Loops, Grids, and Procedural Patterns`](strategy/B2.2.0_Loops_Grids_Patterns_Strategy.md)
+- [`B2.3 — Controlled Randomness`](strategy/B2.3.0_Randomness_Strategy.md)
+- [`B2.4 — Conditions for Procedural Variation`](strategy/B2.4.0_Conditions_Strategy.md)

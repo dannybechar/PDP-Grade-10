@@ -7,6 +7,13 @@ public class InteractionSketch extends PApplet {
     private int scene = TITLE;
     public void draw() { background(255); textAlign(CENTER, CENTER); textSize(28); if (scene == TITLE) text("Click to play", 200, 200); else if (scene == PLAY) text("Press E to end", 200, 200); else if (scene == END) text("Press R to restart", 200, 200); }
     public void mousePressed() { if (scene == TITLE) scene = PLAY; }
-    public void keyPressed() { if (scene == PLAY && key == 'e') scene = END; else if (scene == END && key == 'r') scene = TITLE; }
+    public void keyPressed() {
+        if (scene == PLAY) {
+            if (key == 'e') { scene = END; }
+        }
+        if (scene == END) {
+            if (key == 'r') { scene = TITLE; }
+        }
+    }
     public static void main(String[] args) { PApplet.main(InteractionSketch.class.getName()); }
 }

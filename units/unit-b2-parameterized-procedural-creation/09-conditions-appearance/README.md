@@ -13,7 +13,7 @@ This lesson teaches students to use one condition to vary a generated shape’s 
 |---|---|
 | `ConditionSketch_Position` | Six circles; fill changes at the x = 220 threshold. |
 | `ConditionSketch_Counter` | Indices 0–2 use one fill; indices 3–5 use another. |
-| `ConditionSketch_Complete` | Alternating size and shade determined by an even/odd condition. |
+| `ConditionSketch_Complete` | The first three circles are large and dark; the final three are smaller and light, using one explicit `i < 3` condition. |
 
 ## Run a project
 
